@@ -1,4 +1,4 @@
-# Faça um programa que leia um número Inteiro e mostre na tela o seu sucessor e seu antecessor.
+# Write a program that reads an integer and displays its successor and predecessor on the screen.
 
-n = int(input("Digite um valor inteiro : "))
-print(f"O valor digitado foi {n} o seu antecessor é {n-1} e o seu sucessor é {n+1}")
+n = int(input("Enter an integer value : "))
+print(f"The value entered was {n} your predecessor is {n-1} and his successor is {n+1}")
