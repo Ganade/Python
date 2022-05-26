@@ -1,14 +1,14 @@
-# Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada.
+# Create an algorithm that reads a number and displays its double, triple, and square root.
 
 import math
 
-n = float(input("Digite um valor para os calculos de dobro, triplo e de raiz quadrada: "))
-dobro = n * 2
-triplo = n * 3
-raiz_multiplicando = n ** 0.5
-raiz_sqrt = math.sqrt(n)
-raiz_pow = math.pow(n, 1/2)
-print(f"Para o valor {n:.2f} o dobro é {dobro:.2f}, o triplo é {triplo:.2f} e a raiz quadrada é "
-      # f"{raiz_multiplicando:.2f}      
-      # f"{raiz_sqrt:.2f} "
-      f"{raiz_pow:.2f} ")
+n = float(input("Enter a value for double, triple, and square root calculations: "))
+double = n * 2  # Calculates double of variable n
+triple = n * 3  # Calculates triple of variable n
+root_multiplying = n ** 0.5  # Calculates the square root of variable n using multiplication
+root_sqrt = math.sqrt(n)      # Calculates the square root of variable n using math.sqrt
+root_pow = math.pow(n, 1/2)   # Calculates the square root of variable n using math.pow
+print(f"for the value {n:.2f} the double is {double:.2f}, the triple is {triple:.2f} and the square root is "
+      f"{root_multiplying:.2f} using multiplication, "     
+      f"{root_sqrt:.2f} using math.sqrt, "
+      f"and {root_pow:.2f} using math.pow")
