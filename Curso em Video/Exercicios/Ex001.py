@@ -1,3 +1,4 @@
-# Crie um programa que escreva "Olá mundo!" na tela.
-msg = "Olá, Mundo!"  # define variável msg
-print(msg)  # Imprime a variável msg
+# Create a program that writes "Hello world!" on the screen..
+
+msg = "Hello, World!"  # define message variable
+print(msg)  # Print the message variable
