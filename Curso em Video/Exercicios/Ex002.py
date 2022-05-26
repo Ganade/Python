@@ -1,4 +1,4 @@
-# Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas vindas.
+# Make a program that reads a person's name and displays a welcome message.
 
-name = str(input("Olá, qual é o seu nome?: "))  # Define a variável name
-print(f"Olá {name}, seja muito bem vindo")  # imprime a variável name na frase
+name = str(input("Hello, what is your name?: "))  # Define name variable
+print(f"Hello {name}, be very welcome")  # Print the name variable in the phrase
