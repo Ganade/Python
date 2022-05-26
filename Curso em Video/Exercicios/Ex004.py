@@ -1,11 +1,11 @@
-# Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis
-# sobre ele.
+# Write a program that reads something on the keyboard and displays its primitive type and all possible information
+# about it on the screen.
 
-n = input("Digite algo: ")
-print(f"O tipo primitivo de {n} é {type(n)}")
-print(f"O valor digitado é numérico? {n.isnumeric()}")  # Verifica se oque foi digitado é numérico
-print(f"O valor digitado é somente letras? {n.isalpha()}")  # Verifica se oque foi digitado é letras
-print(f"O valor digitado é somente letras maiúsculas? {n.isupper()}")  # Verifica se oque foi digitado está em maiúsculas
-print(f"O valor digitado é somente letras minusculas? {n.islower()}")  # Verifica se oque foi digitado está em minusculas
-print(f"O valor digitado é alfanumerico? {n.isalnum()}") # Verifica se oque foi digitado é alphanumerico
-print(f"O valor digitado é somente espaços? {n.isspace()}")  # Verifica se oque foi digitado é somente espaços
+n = input("Type something: ")  # Read the n variable
+print(f"The primitive type of {n} is {type(n)}")  # Shows the primitive type of the variable n
+print(f"The value entered is numeric? {n.isnumeric()}")  # Check if what was typed is only numeric
+print(f"The value entered is only letters? {n.isalpha()}")  # Check if what was typed is only letters
+print(f"The value entered is capital letters only? {n.isupper()}")  # Check that what you type is in uppercase
+print(f"The value entered is only lowercase letters? {n.islower()}")  # Check if what was typed is in lower case
+print(f"The value entered is alphanumeric? {n.isalnum()}")  # Check if what was typed is alphanumeric
+print(f"The value entered is only spaces? {n.isspace()}")  # Check if what was typed is only spaces
