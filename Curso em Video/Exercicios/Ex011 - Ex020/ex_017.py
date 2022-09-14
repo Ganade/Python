@@ -1,5 +1,5 @@
 """
-Exercise 017
+Exercise 017 - Cathetus and hypotenuse
 """
 # Write a program that reads the length of the opposite and adjacent sides of a right triangle.
 # Calculate and display the length of the hypotenuse.
