@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bafcb733-5f52-4118-916b-03e84d66b951" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Curso em Video/Exercicios/Ex011 - Ex020/Ex013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alura/Aulas/adivinhacao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Video/Exercicios/Ex001 - Ex010/Ex008.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Video/Exercicios/Ex001 - Ex010/Ex008.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Video/Exercicios/Ex001 - Ex010/Ex009.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Video/Exercicios/Ex001 - Ex010/Ex009.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Video/Exercicios/Ex001 - Ex010/Ex010.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Video/Exercicios/Ex001 - Ex010/Ex010.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Video/Exercicios/Ex011 - Ex020/Ex011.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Video/Exercicios/Ex011 - Ex020/Ex011.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso em Video/Exercicios/Ex011 - Ex020/Ex012.py" beforeDir="false" afterPath="$PROJECT_DIR$/Curso em Video/Exercicios/Ex011 - Ex020/Ex012.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Alura/Aulas/adivinhacao.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -39,34 +39,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
-  </component>
-  <component name="RunManager" selected="Python.Ex013">
-    <configuration name="Ex009" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Curso em Video/Exercicios/Ex001 - Ex010" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Curso em Video/Exercicios/Ex001 - Ex010/Ex009.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Documentos/GitHub/Python",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.adivinhacao">
     <configuration name="Ex010" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,7 +112,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex013" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="adivinhacao" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Alura/Aulas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\Documentos\GitHub\Python\Alura\Aulas\divination.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="adivinhacao" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Ex013" />
+        <item itemvalue="Python.adivinhacao" />
+        <item itemvalue="Python.adivinhacao" />
         <item itemvalue="Python.Ex012" />
         <item itemvalue="Python.Ex011" />
         <item itemvalue="Python.Ex010" />
-        <item itemvalue="Python.Ex009" />
       </list>
     </recent_temporary>
   </component>
