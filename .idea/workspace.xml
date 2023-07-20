@@ -5,6 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bafcb733-5f52-4118-916b-03e84d66b951" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Ganad.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alura/Aulas/Conjuntos e dicionarios em python/Continuando com Collections.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alura/Aulas/Conjuntos e dicionarios em python/Default dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alura/Aulas/Conjuntos e dicionarios em python/Dicionario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alura/Aulas/Conjuntos e dicionarios em python/Testando o uso de diversas colecoes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alura/Aulas/Listas e Tuplas em Python/aray, evitaremos usar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alura/Aulas/Listas e Tuplas em Python/herança e polimorfismo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alura/Aulas/Listas e Tuplas em Python/igualdade e __eq__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alura/Aulas/Listas e Tuplas em Python/introducao a collections.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alura/Aulas/Listas e Tuplas em Python/objetos proprios.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alura/Aulas/Strings em python/extrator_cep.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alura/Aulas/Strings em python/extrator_url.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alura/Aulas/Strings em python/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alura/Aulas/Strings em python/validador_url.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alura/Aulas/Validacao dados padrao nacional/Cpf_Cnpj.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alura/Aulas/Validacao dados padrao nacional/TelefonesBr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alura/Aulas/Validacao dados padrao nacional/datas_br.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alura/Aulas/Validacao dados padrao nacional/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alura/Aulas/oo2/multiple inheritance.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Alura/Aulas/oo2/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alura/Aulas/oo2/model.py" afterDir="false" />
     </list>
@@ -44,10 +63,11 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ganad/OneDrive/Documentos/GitHub/Python&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;pyconsole&quot;
+    &quot;last_opened_file_path&quot;: &quot;D:/Documentos/MEGA/programacao/Python/Dicionario ptbr/IntelliJ.Portuguese.Brazil.Dictionary-master/portuguese-brazil_without-accents.dic&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.spelling&quot;
   }
 }</component>
   <component name="PyConsoleOptionsProvider">
@@ -60,33 +80,12 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Documentos\GitHub\Python\Alura\Aulas" />
       <recent name="D:\Documentos\GitHub\Python\Alura\Games" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.model">
-    <configuration name="account" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="D:\Documentos\GitHub\Python\venv\Scripts\python.exe" />
-      <option name="SDK_NAME" value="Python 3.11 (Python)" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Alura/Aulas/oo" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Alura/Aulas/oo/account.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="true" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="Cpf_Cnpj (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,11 +93,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Alura/Aulas/oo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Alura/Aulas/Validacao dados padrao nacional" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Alura/Aulas/oo/client.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Alura/Aulas/Validacao dados padrao nacional/Cpf_Cnpj.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Cpf_Cnpj" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,11 +114,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Alura/Aulas/oo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Alura/Aulas/Validacao dados padrao nacional" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Alura/Aulas/oo/dates.py" />
+      <option name="SCRIPT_NAME" value="D:\Documentos\GitHub\Python\Alura\Aulas\Validacao dados padrao nacional\Cpf_Cnpj.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hangman_game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Default dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,11 +135,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Alura/Games" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Alura/Aulas/Conjuntos e dicionarios em python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Alura/Games/hangman_game.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Alura/Aulas/Conjuntos e dicionarios em python/Default dict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="datas_br" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,11 +156,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Alura/Aulas/oo2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Alura/Aulas/Validacao dados padrao nacional" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Alura/Aulas/oo2/model.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Alura/Aulas/Validacao dados padrao nacional/datas_br.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Alura/Aulas/Validacao dados padrao nacional" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Alura/Aulas/Validacao dados padrao nacional/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,15 +192,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.model" />
-        <item itemvalue="Python.account" />
-        <item itemvalue="Python.client" />
-        <item itemvalue="Python.dates" />
-        <item itemvalue="Python.hangman_game" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.datas_br" />
+        <item itemvalue="Python.Cpf_Cnpj (1)" />
+        <item itemvalue="Python.Cpf_Cnpj" />
+        <item itemvalue="Python.Default dict" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="4" Folder0="D:\Documentos\MEGA\programacao\Python\Dicionario ptbr\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder1="D:\Documentos\MEGA\programacao\Python\Dicionario ptbr\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder2="D:\Documentos\MEGA\programacao\Python\Dicionario ptbr\IntelliJ.Portuguese.Brazil.Dictionary-master" Folder3="D:\Documentos\MEGA\programacao\Python\Dicionario ptbr\IntelliJ.Portuguese.Brazil.Dictionary-master" CustomDictionaries="4" CustomDictionary0="D:\Documentos\MEGA\programacao\Python\Dicionario ptbr\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil.dic" CustomDictionary1="D:\Documentos\MEGA\programacao\Python\Dicionario ptbr\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_technical-terms.dic" CustomDictionary2="D:\Documentos\MEGA\programacao\Python\Dicionario ptbr\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_technical-terms_without-accents.dic" CustomDictionary3="D:\Documentos\MEGA\programacao\Python\Dicionario ptbr\IntelliJ.Portuguese.Brazil.Dictionary-master\portuguese-brazil_without-accents.dic" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="bafcb733-5f52-4118-916b-03e84d66b951" name="Changes" comment="" />

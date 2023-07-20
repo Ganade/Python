@@ -53,12 +53,14 @@ class Playlist:
         self.name = name
         self._programs = programs
 
+    def __getitem__(self, item):
+        return self._programs[item]
+
     @property
     def listing(self):
         return self._programs
 
-    @property
-    def length(self):
+    def __len__(self):
         return len(self._programs)
 
 
@@ -78,5 +80,5 @@ weekend_playlist = Playlist('Weekend Playlist', movies_and_series)
 
 print(f'length of Playlist "{weekend_playlist.name}": {len(weekend_playlist.listing)} items:')
 
-for program in weekend_playlist.listing:
+for program in weekend_playlist:
     print(f'- {program}')
